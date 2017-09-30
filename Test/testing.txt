@@ -1,2 +1,3 @@
 test
-Testing fetching from remote 
+Testing fetching from remote
+pushing after fetching
