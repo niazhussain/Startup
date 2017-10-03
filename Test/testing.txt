@@ -2,5 +2,8 @@ test
 Testing fetching from remote
 pushing after fetching
 test again for 3rd push
-yyeyey
-push by Hussain
+test pull
+
+testing through web IDE
+write to fetch from IDE
+hello this is shafiq
